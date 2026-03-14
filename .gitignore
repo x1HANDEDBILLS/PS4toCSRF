@@ -1,0 +1,9 @@
+build/
+bin/
+*.o
+*.a
+*.so
+*.gch
+*.bin
+.vscode/
+.DS_Store
